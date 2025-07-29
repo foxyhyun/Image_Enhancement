@@ -1,0 +1,6 @@
+
+
+# 데이터 폴더 제외
+png/
+tif/
+UNet_train/
